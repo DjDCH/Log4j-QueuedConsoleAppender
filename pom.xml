@@ -7,7 +7,7 @@
 
     <groupId>com.djdch.log4j</groupId>
     <artifactId>log4j-queuedconsoleappender</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <name>Log4j-QueuedConsoleAppender</name>
     <description>Provide a QueuedConsoleAppender for Log4j 2 designed to queue log messages.</description>
