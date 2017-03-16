@@ -21,7 +21,7 @@ Add the dependency in your `pom.xml` file:
 <dependency>
     <groupId>com.djdch.log4j</groupId>
     <artifactId>log4j-queuedconsoleappender</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
 </dependency>
 ```
 
